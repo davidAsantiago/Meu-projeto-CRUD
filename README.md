@@ -11,4 +11,4 @@
 
   <h1>Operações CRUD no SQL Server</h1>
 <p> que é esse tal de CRUD? Nada mais é do que um conjunto de operações que você pode fazer dentro do seu banco de dados. Essa é uma sigla para Create, Read, Update e Delete. Que traduzindo seria criar, ler, atualizar e deletar. Então vamos poder utilizar essas operações dentro de um banco de dados.<p/>
-<img href="/imagens/crud1">
+<img href="../Capturas de telas/crud1">
