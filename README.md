@@ -8,3 +8,5 @@
 👁 R: Read (ler) - ler (exibir) as informações de um registro.<br>
 ♻️ U: Update (atualizar) - atualizar os dados do registro.<br>
 ❌ D: Delete (apagar) - apagar um registro.<br>
+
+  <h1>Operações CRUD no SQL Server</h1>
