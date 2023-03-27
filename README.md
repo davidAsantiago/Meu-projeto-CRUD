@@ -18,3 +18,6 @@ CREATE TABLE usuarios ( <br>
     login VARCHAR(30), <br>
     senha VARCHAR(30) <br>
 ); <br>
+
+
+<p> Nesta tabela temos 4 campos sendo que o primeiro deles (id_usuario) é do tipo inteiro, é a Chave Primária da tabela, não pode ter valor nulo e irá ter um incremento automático (primeiro registro começa com 1, segundo 2, etc). Os outros três campos são do tipo varchar e aceitam até 30 caracteres. Com nossa tabela criada, vamos usar nosso exemplo de Conexão com banco MySQL anterior e inserir (Create) alguns valores em nosso banco, para isso crie um arquivo chamado crud.php (ou outro nome de sua preferência) e insira o código: </p>
