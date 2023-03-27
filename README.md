@@ -13,9 +13,10 @@
 <p> que é esse tal de CRUD? Nada mais é do que um conjunto de operações que você pode fazer dentro do seu banco de dados. Essa é uma sigla para Create, Read, Update e Delete. Que traduzindo seria criar, ler, atualizar e deletar. Então vamos poder utilizar essas operações dentro de um banco de dados.<p/><br>
 
 <p>Criando uma tabela com 3 colunas
-Nesse comando você vai poder colocar também as colunas e o tipo de dados no SQL Server após o nome da coluna. Agora que criamos as tabelas nós podemos utilizar o comando SELECT FROM para selecionar essas tabelas.<p><br>
-
-<p>Selecionando tabelas
+<p>Nesse comando você vai poder colocar também as colunas e o tipo de dados no SQL Server após o nome da coluna. Agora que criamos as tabelas nós podemos utilizar o comando SELECT FROM para selecionar essas tabelas.<p><br>
+<a href="https://www.hashtagtreinamentos.com/wp-content/uploads/2022/03/Operacoes-CRUD-no-SQL-Server-1-1024x177.png.webp">
+  
+<p>Selecionando tabelas</p>
 <p>Você deve notar que não temos informações dentro dessas tabelas, então vamos ter que inserir os dados. Para isso vamos usar o comando INSERT INTO.<p><br>
 
 <p>Inserindo valores dentro de uma tabela
