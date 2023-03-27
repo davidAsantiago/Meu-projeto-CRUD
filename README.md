@@ -1,10 +1,10 @@
-# Meu projeto CRUD
+<h1> Meu projeto CRUD </h1> 
 
-# **O que é CRUD?**
+<h3><s>O que é CRUD?</s></h3>
 
-CRUD é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados.
+<p>CRUD é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados.<p>
 
-✅ C: Create (criar) - criar um novo registro  .
-👁 R: Read (ler) - ler (exibir) as informações de um registro  .
-♻️ U: Update (atualizar) - atualizar os dados do registro  .
-❌ D: Delete (apagar) - apagar um registro  .
+✅ C: Create (criar) - criar um novo registro.<br>
+👁 R: Read (ler) - ler (exibir) as informações de um registro.<br>
+♻️ U: Update (atualizar) - atualizar os dados do registro.<br>
+❌ D: Delete (apagar) - apagar um registro.<br>
