@@ -1,6 +1,6 @@
 <h1> Meu projeto CRUD </h1> 
 
-<h3><s>O que é CRUD?</s></h3>
+<h3><strong>O que é CRUD?</strong></h3>
 
 <p>CRUD é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados.<p>
 
