@@ -12,7 +12,7 @@
  <h1>Comandos básicos de MySQL</h1>
 <p> Depois de aprender a se conectar com um banco de dados MySQL, vamos agora testar algumas interações na prática. As 4 operações básicas utilizadas em bancos de dados são conhecidas como CRUD (Create, Read, Update e Delete) que são: Criar, Ler, Atualizar e Apagar respectivamente. Para começar vamos criar uma tabela em nosso banco chamada "usuarios", podemos inserir o comando SQL abaixo um algum gerenciador de banco como o phpMyAdmin por exemplo: </p>
 
-<div style="color:red">
+ <div style="color: aquamarine;">
 CREATE TABLE usuarios ( <br>
     id_usuario INT(5) NOT NULL AUTO_INCREMENT PRIMARY KEY, <br>
     nome VARCHAR(30), <br>
